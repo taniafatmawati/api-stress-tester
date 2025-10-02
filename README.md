@@ -1,4 +1,4 @@
-# 🚀 API Stress Test
+# ⚡ API Stress Test
 
 ## Project Overview
 
